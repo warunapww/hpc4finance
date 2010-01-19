@@ -1,11 +1,11 @@
 #summary Quick Installation Guide
 #labels quick,Featured,installation,guide
 
- #.Install MPICH2 Cluster
-   version 1.0.8 or newer. Refer [http://www.mcs.anl.gov/research/projects/mpich2/documentation/index.php?s=docs MPICH2 docs] for more details.
+ *.Install MPICH2 Cluster
+ version 1.0.8 or newer. Refer [http://www.mcs.anl.gov/research/projects/mpich2/documentation/index.php?s=docs MPICH2 docs] for more details.
 
- #.Install MySQL Cluster
-   refer [http://dev.mysql.com/doc/mysql-cluster-excerpt/5.1/en/index.html MySQL Cluster Docs] for more details
+ *.Install MySQL Cluster
+ refer [http://dev.mysql.com/doc/mysql-cluster-excerpt/5.1/en/index.html MySQL Cluster Docs] for more details
  
- #.Install HPC4FServer
-   HPC4FServer –h <host ip> -p <port>
+ *.Install HPC4FServer
+ HPC4FServer –h <host ip> -p <port no>
