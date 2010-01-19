@@ -1,0 +1,6 @@
+#summary Quick Installation Guide
+#labels quick,Featured,installation,guide
+
+ #.Install MPICH2 Cluster
+ #.Install MySQL Cluster
+ #.Install HPC4FServer
